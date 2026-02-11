@@ -1,0 +1,8 @@
+{
+  "name": "Corex Transport Group",
+  "description": "A premium, mobile-first logistics landing page for Corex, a Rajasthan-based cargo and transport company launching in 2026. Features a modern UI and an AI-powered logistics consultant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
